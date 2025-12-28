@@ -28,13 +28,13 @@
     "label": "HostingRadio (Alternatywny MP3)",
     "value": "http://avtoradio.hostingradio.ru/avtoradio128.mp3",
     "emoji": "🚗"
-  }
-  ,
+  },
   {
     "label": "Wersja AAC",
     "value": "http://pub0101.101.ru:8000/stream/air/aac/64/3",
     "emoji": "🚗"
   }
 ]
+
 
 
