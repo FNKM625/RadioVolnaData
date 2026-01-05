@@ -18,5 +18,11 @@
     "label": "RMF FM (PL)",
     "value": "https://rs6-krk2.rmfstream.pl/RMFFM48",
     "emoji": "🇵🇱"
+  },
+  {
+    "label": "Radio Znad Wilii",
+    "value": "https://stream.znadwilii.lt/zw",
+    "emoji": "🇵🇱"
   }
 ]
+
