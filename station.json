@@ -26,10 +26,11 @@
   },
   {
     "label": "RMF FM (PL)",
-    "value": "http://195.150.20.243:8000/rmf_fm",
+    "value": "http://stream.rmffm.pl/rmf_fm",
     "emoji": "🇵🇱"
   }
 ]
+
 
 
 
