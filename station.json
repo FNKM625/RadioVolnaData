@@ -18,8 +18,19 @@
     "label": "RMF FM (PL)",
     "value": "http://rs6-krk2.rmfstream.pl/RMFFM48",
     "emoji": "🇵🇱"
+  },
+  {
+    "label": "RMF FM (PL)",
+    "value": "http://217.74.72.10:8000/rmf_fm",
+    "emoji": "🇵🇱"
+  },
+  {
+    "label": "RMF FM (PL)",
+    "value": "http://195.150.20.243:8000/rmf_fm",
+    "emoji": "🇵🇱"
   }
 ]
+
 
 
 
